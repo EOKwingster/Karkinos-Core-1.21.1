@@ -1,0 +1,124 @@
+{
+  "variants": {
+    "facing=east,part=bottom,type=blood": {
+      "model": "karkinoscore:block/blood_stele_bottom",
+      "y": 90
+    },
+    "facing=east,part=bottom,type=marble": {
+      "model": "karkinoscore:block/blood_stele_bottom",
+      "y": 90
+    },
+    "facing=east,part=side_bottom,type=blood": {
+      "model": "karkinoscore:block/blood_stele_side_bottom",
+      "y": 90
+    },
+    "facing=east,part=side_bottom,type=marble": {
+      "model": "karkinoscore:block/blood_stele_side_bottom",
+      "y": 90
+    },
+    "facing=east,part=side_top,type=blood": {
+      "model": "karkinoscore:block/blood_stele_side_top",
+      "y": 90
+    },
+    "facing=east,part=side_top,type=marble": {
+      "model": "karkinoscore:block/blood_stele_side_top",
+      "y": 90
+    },
+    "facing=east,part=top,type=blood": {
+      "model": "karkinoscore:block/blood_stele_top",
+      "y": 90
+    },
+    "facing=east,part=top,type=marble": {
+      "model": "karkinoscore:block/blood_stele_top",
+      "y": 90
+    },
+    "facing=north,part=bottom,type=blood": {
+      "model": "karkinoscore:block/blood_stele_bottom"
+    },
+    "facing=north,part=bottom,type=marble": {
+      "model": "karkinoscore:block/blood_stele_bottom"
+    },
+    "facing=north,part=side_bottom,type=blood": {
+      "model": "karkinoscore:block/blood_stele_side_bottom"
+    },
+    "facing=north,part=side_bottom,type=marble": {
+      "model": "karkinoscore:block/blood_stele_side_bottom"
+    },
+    "facing=north,part=side_top,type=blood": {
+      "model": "karkinoscore:block/blood_stele_side_top"
+    },
+    "facing=north,part=side_top,type=marble": {
+      "model": "karkinoscore:block/blood_stele_side_top"
+    },
+    "facing=north,part=top,type=blood": {
+      "model": "karkinoscore:block/blood_stele_top"
+    },
+    "facing=north,part=top,type=marble": {
+      "model": "karkinoscore:block/blood_stele_top"
+    },
+    "facing=south,part=bottom,type=blood": {
+      "model": "karkinoscore:block/blood_stele_bottom",
+      "y": 180
+    },
+    "facing=south,part=bottom,type=marble": {
+      "model": "karkinoscore:block/blood_stele_bottom",
+      "y": 180
+    },
+    "facing=south,part=side_bottom,type=blood": {
+      "model": "karkinoscore:block/blood_stele_side_bottom",
+      "y": 180
+    },
+    "facing=south,part=side_bottom,type=marble": {
+      "model": "karkinoscore:block/blood_stele_side_bottom",
+      "y": 180
+    },
+    "facing=south,part=side_top,type=blood": {
+      "model": "karkinoscore:block/blood_stele_side_top",
+      "y": 180
+    },
+    "facing=south,part=side_top,type=marble": {
+      "model": "karkinoscore:block/blood_stele_side_top",
+      "y": 180
+    },
+    "facing=south,part=top,type=blood": {
+      "model": "karkinoscore:block/blood_stele_top",
+      "y": 180
+    },
+    "facing=south,part=top,type=marble": {
+      "model": "karkinoscore:block/blood_stele_top",
+      "y": 180
+    },
+    "facing=west,part=bottom,type=blood": {
+      "model": "karkinoscore:block/blood_stele_bottom",
+      "y": 270
+    },
+    "facing=west,part=bottom,type=marble": {
+      "model": "karkinoscore:block/blood_stele_bottom",
+      "y": 270
+    },
+    "facing=west,part=side_bottom,type=blood": {
+      "model": "karkinoscore:block/blood_stele_side_bottom",
+      "y": 270
+    },
+    "facing=west,part=side_bottom,type=marble": {
+      "model": "karkinoscore:block/blood_stele_side_bottom",
+      "y": 270
+    },
+    "facing=west,part=side_top,type=blood": {
+      "model": "karkinoscore:block/blood_stele_side_top",
+      "y": 270
+    },
+    "facing=west,part=side_top,type=marble": {
+      "model": "karkinoscore:block/blood_stele_side_top",
+      "y": 270
+    },
+    "facing=west,part=top,type=blood": {
+      "model": "karkinoscore:block/blood_stele_top",
+      "y": 270
+    },
+    "facing=west,part=top,type=marble": {
+      "model": "karkinoscore:block/blood_stele_top",
+      "y": 270
+    }
+  }
+}

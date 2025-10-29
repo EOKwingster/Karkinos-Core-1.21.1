@@ -1,0 +1,7 @@
+{
+  "parent": "karkinoscore:block/stele_bottom",
+  "textures": {
+    "0": "karkinoscore:block/blood_stele_bottom",
+    "particle": "karkinoscore:block/blood_stele_bottom"
+  }
+}

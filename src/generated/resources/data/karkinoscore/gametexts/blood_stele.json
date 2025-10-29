@@ -1,0 +1,12 @@
+[
+  {
+    "keys": [
+      "gametext.karkinoscore.blood_stele.respiratory_system",
+      "gametext.karkinoscore.blood_stele.digestive_system",
+      "gametext.karkinoscore.blood_stele.urinary_system"
+    ],
+    "require_advancement": "null",
+    "require_global": "null",
+    "require_state": "null"
+  }
+]
